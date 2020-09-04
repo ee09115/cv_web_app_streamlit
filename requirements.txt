@@ -5,3 +5,4 @@ gunicorn
 numpy
 opencv-contrib-python-headless
 streamlit_drawable_canvas
+dataclasses
